@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Atletas</string>
+
+    <string name="senior">Atleta Sênior</string>
+    <string name="juvenil">Atleta Juvenil</string>
+    <string name="outro">Outros</string>
+
+    <string name="nome">Nome</string>
+    <string name="data">Data de Nascimento</string>
+    <string name="bairro">Bairro</string>
+
+    <string name="tv_saude">Tem problemas cardiacos?</string>
+    <string name="rb_sim">Sim</string>
+    <string name="rb_nao">Não</string>
+
+    <string name="anos">Anos Praticados</string>
+
+    <string name="academia">Academia</string>
+    <string name="recorde">Recorde</string>
+
+    <string name="cadastro">Cadastro</string>
+
+</resources>
